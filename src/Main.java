@@ -16,6 +16,5 @@ public class Main {
         System.out.println("Ваш индекс массы тела: ");
         System.out.print(service.calculate(1.73, 51));
         System.out.println();
-
     }
 }
